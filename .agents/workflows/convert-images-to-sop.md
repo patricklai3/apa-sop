@@ -31,7 +31,7 @@ All SOPs must adhere to the following standard format:
 ### 2. Drafting the Steps
 - Translate the visual UI actions and provided notes into clear, step-by-step text instructions adhering to the **Formatting Standards** defined above.
 - Use standard markdown formatting (e.g., bold text for UI buttons, fields, and dropdown options).
-- **Cross-Referencing**: Check if any of the described actions are already documented elsewhere in the workspace. If they are, create a relative markdown link to that existing SOP instead of repeating the instructions (e.g., `[Bill of Lading (BOL)](../ltl/ltl.md)`).
+- **Cross-Referencing**: Check if any of the described actions are already documented elsewhere in the workspace. If they are, create a relative markdown link to that existing SOP instead of repeating the instructions. Always try to incorporate links into an action item or a specific term (e.g., `Create an [LTL shipping](../ltl/ltl.md) label.`) instead of saying "follow certain instructions" or "refer to something".
 
 ### 3. Creating the Implementation Plan (Mandatory)
 - **Do not immediately modify the source document.**

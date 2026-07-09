@@ -21,7 +21,35 @@ When selecting a customer for a quotation, choose from one of the following scen
 
 Upon acquiring customer approval or order confirmation, create the sales order via the submitted quotation. Then, determine the appropriate method to [communicate the sales order](../system-communications/system-communications.md#sales-order) to the customer based on their location and payment preference:
 
-- **Out-of-state customers (Pre-payment required)**: Follow the instructions to send the sales order [with a payment link](../system-communications/system-communications.md#scenario-1-with-payment-link).
+- **Non-local customers (Pre-payment required)**: Follow the instructions to send the sales order [with a payment link](../system-communications/system-communications.md#scenario-1-with-payment-link).
 - **Local customers (Payment on delivery/pickup)**: If paying by check or credit card upon delivery, send the sales order [without a payment link](../system-communications/system-communications.md#scenario-2-without-payment-link-local-delivery-or-pickup) by replying to their existing email conversation with the PDF attached.
 
----
+
+
+## Non-Local Customer Procedures
+
+This procedure outlines the process for handling non-local customers who require prepayment. Once payment is received, you will process the shipment and issue the final invoice.
+
+### Step 3: Record Payment
+
+Once payment is received via the payment link, [record payment](../payment/payment.md) through the respective sales order.
+
+### Step 4: Pick Items
+
+Print the Sales Order (SO) to use as a pick list. Record which warehouse the items were picked from.
+
+### Step 5: Pack and Ship
+
+Pack the shipment and create the applicable shipping label:
+
+- **Scenario 1:** Create a [standard shipping](../package/package-shipping.md) label.
+- **Scenario 2:** Create an [LTL shipping](../ltl/ltl.md) label.
+
+### Step 6: Create Sales Invoice
+
+Create a [Sales Invoice (SI)](../sales-invoice/invoice.md) from the Sales Order.
+
+### Step 7: Send Sales Invoice and Tracking
+
+Send the Sales Invoice, along with the tracking information, to the customer via the appropriate [invoice email version](../system-communications/system-communications.md#sales-invoice).
+
