@@ -59,7 +59,7 @@ In a submitted Sales Order, click on the "Create" button and select "Payment Req
 
 #### Step 2: Fill Transaction Details
 
-In the Payment Request form, fill in "Transaction Date" and "Mode of Payment".
+In the Payment Request form, fill in "Transaction Date" and "Mode of Payment" as **Stripe**.
 
 ![alt text](image-8.png)
 

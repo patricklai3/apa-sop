@@ -24,3 +24,12 @@ When selecting a customer for a quotation, choose from one of the following scen
 ### Step 2: Confirm & Create Order
 
 Upon acquiring customer approval or order confirmation, create the sales order via the submitted quotation.
+
+---
+
+### Step 3: Provide Sales Order
+
+Determine the appropriate method to [communicate the sales order](../system-communications/system-communications.md#sales-order) to the customer based on their location and payment preference:
+
+- **Out-of-state customers (Pre-payment required)**: Follow the instructions to send the sales order [with a payment link](../system-communications/system-communications.md#with-payment-link).
+- **Local customers (Payment on delivery/pickup)**: If paying by check or credit card upon delivery, send the sales order [without a payment link](../system-communications/system-communications.md#without-payment-link-local-delivery-or-pickup) by replying to their existing email conversation with the PDF attached.
