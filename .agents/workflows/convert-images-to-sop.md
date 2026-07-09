@@ -48,4 +48,5 @@ All SOPs must adhere to the following standard format:
 
 ### 5. Finalization
 - Verify the markdown formatting of the modified document to ensure consistency with the SOP format.
+- **Version Control**: After successfully modifying SOPs, you must update the `changelog.md` file in the root directory to log your changes and bump the version appropriately according to semantic versioning.
 - Create a `walkthrough.md` artifact to summarize the changes made for the user.
