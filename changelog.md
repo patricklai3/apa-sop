@@ -8,6 +8,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ## [1.1.0] - 2026-07-09
 
 ### Added
+- Created `README.md` as the primary repository overview and entry point for team members.
 - Created `CONTRIBUTING.md` guide for human and AI agent contributors.
 
 ### Changed
