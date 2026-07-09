@@ -6,16 +6,12 @@ Generate the sales order via an approved [Quotation](../quotation/create_quotati
 
 ![alt text](image-3.png)
 
----
-
 ### Step 1: Navigate to Sales Order List
 
 Navigate to the sales order list and click **"Add Sales Order"**.
 
 ![menu](./main_menu_location.png)
 ![sales-order-list](./sales_order_list.png)
-
----
 
 ### Step 2: Fill in Order Details
 
@@ -28,8 +24,6 @@ Select the **Customer**, set the **Estimated Delivery Date**, and input the cust
 > Review how to [add a customer](./add-customer/add-customer.md) if the customer is completely new.
 
 ![alt text](image.png)
-
----
 
 ### Step 3: Complete the Sales Order
 

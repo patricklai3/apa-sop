@@ -12,8 +12,6 @@ Once submitted, a print button becomes available to acquire an electronic form o
 
 ![alt text](image.png)
 
----
-
 ### Step 2: Generate PDF
 
 Click the "PDF" button to generate a PDF form of the quotation.
@@ -28,13 +26,9 @@ Click the "PDF" button to generate a PDF form of the quotation.
 >
 > ![alt text](image-4.png)
 
----
-
 ### Step 3: Save the PDF Using System Prompts
 
 ![alt text](image-2.png)
-
----
 
 ### Step 4: Drag and Drop to Email
 
@@ -42,12 +36,14 @@ Using the above method, the file will be available in the downloads list of the 
 
 ![alt text](image-3.png)
 
+---
+
 ## Sales Order
 
 >[!IMPORTANT]
 > Sales orders can be communicated with a payment link or without a payment link.
 
-### With payment link 
+### Scenario 1: With payment link 
 
 #### Step 1: Open Payment Request
 
@@ -55,15 +51,11 @@ In a submitted Sales Order, click on the "Create" button and select "Payment Req
 
 ![alt text](image-5.png)
 
----
-
 #### Step 2: Fill Transaction Details
 
 In the Payment Request form, fill in "Transaction Date" and "Mode of Payment" as **Stripe**.
 
 ![alt text](image-8.png)
-
----
 
 #### Step 3: Complete Recipient Message And Payment Details
 
@@ -88,15 +80,11 @@ In the Payment Request form, fill in "Transaction Date" and "Mode of Payment" as
 
 ![alt text](image-9.png)
 
----
-
 #### Step 4: Submit
 
 On submission the customer will receive an email with the payment link and PDF of sales order.
 
 ![alt text](image-6.png)
-
----
 
 #### Step 5: Inform Customer of Payment Link
 
@@ -105,7 +93,7 @@ On submission the customer will receive an email with the payment link and PDF o
 
 ---
 
-### Without payment link (local delivery or pickup)
+### Scenario 2: Without payment link (local delivery or pickup)
 
 When a local customer requests payment at delivery, use the same process as [quotation](./system-communications.md#quotation) and communicate via the original email thread.
 
@@ -119,8 +107,6 @@ From the submitted Sales Invoice, click the three-dot menu (`...`) in the top ri
 
 ![alt text](image-7.png)
 
----
-
 ### Step 2: Select Email Template
 
 Ensure the recipient's email is correct in the **To** field, then select the appropriate **Email Template** from the dropdown based on the transaction type:
@@ -129,8 +115,6 @@ Ensure the recipient's email is correct in the **To** field, then select the app
 - `Sales Invoice Receipt/Tracking LTL`
 
 ![alt text](image-10.png)
-
----
 
 ### Step 3: Add Tracking or Attachments
 

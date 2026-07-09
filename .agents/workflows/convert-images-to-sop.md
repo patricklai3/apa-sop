@@ -15,9 +15,10 @@ All SOPs must adhere to the following standard format:
 1. **Introduction**: Start with a direct introductory sentence explaining the procedure. Avoid using explicit "Objective:" or "Prerequisites:" block labels.
 2. **Main Sections**: Group related steps under standard heading levels (e.g., `## Create Shipment`).
 3. **Step Headings**: Format step titles as `### Step X: Step Name`.
-4. **Dividers**: Separate each step with a horizontal rule (`---`).
-5. **Visual Aids**: Embed the original images directly below the text instructions for the relevant step.
-6. **Callouts**: Convert user notes into GitHub-style alerts (`> [!NOTE]`, `> [!IMPORTANT]`, `> [!CAUTION]`, `> [!TIP]`).
+4. **Dividers**: Use horizontal rules (`---`) only to separate major sections and distinct peer-level concepts/scenarios. Do not use dividers between sequential steps.
+5. **Scenarios**: Explicitly label variations as 'Scenario X: [Name]' (e.g., `### Scenario 1: With payment link`) to clarify peer-level distinct paths.
+6. **Visual Aids**: Embed the original images directly below the text instructions for the relevant step.
+7. **Callouts**: Convert user notes into GitHub-style alerts (`> [!NOTE]`, `> [!IMPORTANT]`, `> [!CAUTION]`, `> [!TIP]`).
 
 ## Workflow Steps
 
@@ -42,7 +43,7 @@ All SOPs must adhere to the following standard format:
 - Once approved, incorporate the user's feedback into the proper GitHub markdown alerts.
 - Replace the draft sections with the finalized, properly formatted SOP text steps. 
 - Ensure the original images are retained beneath the newly drafted text steps as visual aids.
-- Ensure all steps are separated by horizontal rules (`---`).
+- Ensure sequential steps are NOT separated by horizontal rules (`---`), and ensure dividers are placed before major sections and distinct scenarios.
 
 ### 5. Finalization
 - Verify the markdown formatting of the modified document to ensure consistency with the SOP format.

@@ -12,8 +12,6 @@ Log into the Uber Freight dashboard. Click on the **Create Shipment** button loc
 
 ![](image.png)
 
----
-
 ### Step 2: Select Service Type and Location
 
 Under "Choose your service type", select **Less-than-truckload (LTL)**. Under "Pickup & delivery", select the APA LLC address (**1615 McKinley Ave, La Verne, CA 91750**).
@@ -25,8 +23,6 @@ Under "Choose your service type", select **Less-than-truckload (LTL)**. Under "P
 
 > [!TIP]
 > Pick-up are usually after 12 PM and must be scheduled 3 hours ahead. For best practices, always schedule in the morning as early as possible. If it's past 12:00 AM, schedule for the next day.
-
----
 
 ### Step 3: Enter Shipment Information
 
@@ -42,15 +38,11 @@ Fill out the shipment details (Commodity description, units, dimensions, weight)
 > [!TIP]
 > When multiple items are bundled in one box, make sure to update the weight and dimension accordingly.
 
----
-
 ### Step 4: Select Accessorials and Request Quotes
 
 Choose any necessary accessorials (e.g., liftgate). Click the **See quotes** button at the bottom right.
 
 ![alt text](image-5.png)
-
----
 
 ### Step 5: Select Carrier Quote
 
@@ -60,8 +52,6 @@ Review the provided carrier options, estimated delivery dates, and prices. Selec
 
 > [!TIP]
 > Pay attention to the numbers and select the best value one. For example, FedEx Priority in this case is almost the same price as FedEx Economy.
-
----
 
 ### Step 6: Finalize Pickup Information
 
@@ -79,15 +69,11 @@ In the additional notes or instructions section for the pickup information, add 
 
 ![alt text](image-10.png)
 
----
-
 ### Step 7: Enter References and Book Shipment
 
 Input any relevant reference numbers, PO numbers, or special instructions. Review all details one last time. Click the **Book shipment** button to finalize.
 
 ![alt text](image-9.png)
-
----
 
 ### Step 8: Download and Sign Bill of Lading (BOL)
 
@@ -97,15 +83,11 @@ Navigate to the **Documents** section on the right side of the shipment details 
 
 ![print out two copies and sign BOL](image-13.png)
 
----
-
 ### Step 9: Print and Attach Pallet Label
 
 Navigate back to the **Documents** section and click the download icon next to **Pallet label**. Print the pallet label and securely attach it to the shipment.
 
 ![print out and attach to shipment](image-14.png)
-
----
 
 ### Step 10: Handle Driver Pickup and PRO Label
 
