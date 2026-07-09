@@ -25,7 +25,6 @@ Upon acquiring customer approval or order confirmation, [create a sales order](.
 - **Local customers (Payment on delivery/pickup)**: If paying by check or credit card upon delivery, send the sales order [without a payment link](../system-communications/system-communications.md#scenario-2-without-payment-link-local-delivery-or-pickup) by replying to their existing email conversation with the PDF attached.
 
 
-
 ## Non-Local Customer Procedures
 
 This procedure outlines the process for handling non-local customers who require prepayment. Once payment is received, you will process the shipment and issue the final invoice.
@@ -53,3 +52,24 @@ Create a [Sales Invoice (SI)](../sales-invoice/invoice.md) from the Sales Order.
 
 Send the Sales Invoice, along with the tracking information, to the customer via the appropriate [invoice email version](../system-communications/system-communications.md#sales-invoice).
 
+---
+
+## Local Customer Procedures
+
+This procedure outlines the process for handling local customers who pay on delivery or pickup. 
+
+### Step 3: Pick Items
+
+Print the Sales Order (SO) to use as a pick list. Record which warehouse the items were picked from.
+
+### Step 4: Create Sales Invoice
+
+Create a [Sales Invoice (SI)](../sales-invoice/invoice.md) from the Sales Order.
+
+### Step 5: Arrange Delivery/Pickup
+
+Coordinate with the customer for delivery or pickup. Ensure the customer is aware of the payment method (check or credit card upon delivery). Have the driver take the invoice with him.
+
+### Step 6: Record Payment
+
+Once the driver returns with the payment, [record payment](../payment/payment.md) through the respective sales invoice.
