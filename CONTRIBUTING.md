@@ -12,6 +12,7 @@ You do not need to manually format complex markdown tables or structure step-by-
 
    **How Image Links Work**:
    In Markdown, you aren't actually pasting the image itself into the text. Instead, you are placing a text link that points to an image file saved in the same directory.
+
    > [!TIP]
    > Most modern IDEs and Markdown editors make this effortless. When you copy an image and paste it directly into your document, the editor will automatically save the image file to your directory and generate the correct link for you (e.g., `![caption](image.png)`).
 
