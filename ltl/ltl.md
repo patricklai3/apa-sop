@@ -24,7 +24,7 @@ Under "Choose your service type", select **Less-than-truckload (LTL)**. Under "P
 > Ensure the APA address at 1615 McKinley Ave, La Verne, CA 91750 is selected, not 1652.
 
 > [!TIP]
-> Pick-up items are usually after 12 PM and must be scheduled 3 hours ahead. For best practices, always schedule in the morning as early as possible. If it's past 12:00 AM, schedule for the next day.
+> Pick-up are usually after 12 PM and must be scheduled 3 hours ahead. For best practices, always schedule in the morning as early as possible. If it's past 12:00 AM, schedule for the next day.
 
 ---
 
@@ -89,16 +89,29 @@ Input any relevant reference numbers, PO numbers, or special instructions. Revie
 
 ---
 
+### Step 8: Download and Sign Bill of Lading (BOL)
+
+Navigate to the **Documents** section on the right side of the shipment details page. Click the download icon next to **Bill of lading**. Print out two copies of the BOL and sign both copies in the designated **Shipper Signature** area at the bottom left.
+
 ![](image-12.png)
 
 ![print out two copies and sign BOL](image-13.png)
 
 ---
 
+### Step 9: Print and Attach Pallet Label
+
+Navigate back to the **Documents** section and click the download icon next to **Pallet label**. Print the pallet label and securely attach it to the shipment.
+
 ![print out and attach to shipment](image-14.png)
 
 ---
 
-during pickup, the driver will attach PRO label to both copy of the BOL and leave you with one, and take the other copy with him. scan the tendered BOL with PRO label and [send it to the customer](../system-communications/system-communications.md#step-3-add-tracking-or-attachments)
+### Step 10: Handle Driver Pickup and PRO Label
+
+During pickup, the driver will attach a PRO label to both copies of the BOL. The driver will take one copy and leave you with the other. Scan the tendered BOL with the attached PRO label.
+
+> [!IMPORTANT]
+> You must [send the scanned BOL to the customer](../system-communications/system-communications.md#step-3-add-tracking-or-attachments) as this is a crucial step that is often forgotten.
 
 ![alt text](image-15.png)

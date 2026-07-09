@@ -12,12 +12,12 @@ When selecting a customer for a quotation, choose from one of the following scen
 
 ### Step 1: Provide Quotation
 
-[Generate](./quotation/create_quotation.md) and provide a quotation to the customer.
+[Generate](../quotation/create_quotation.md) and provide a quotation to the customer.
 
-- Learn [how to acquire an electronic form of the document](./acquire_electronic_document.md) to send to the customer.
+- Learn [how to acquire an electronic form of the document](../system-communications/system-communications.md#quotation) to send to the customer.
 
 > [!TIP]
-> **Shortcut:** If an existing customer requests an order without a quotation, you can skip this step. Instead, [create a sales order](./sales-order/create_sales_order.md) directly and proceed to the next step.
+> **Shortcut:** If an existing customer requests an order without a quotation, you can skip this step. Instead, [create a sales order](../sales-order/create_sales_order.md) directly and proceed to the next step.
 
 ---
 

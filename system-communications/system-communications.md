@@ -144,13 +144,13 @@ Depending on the chosen template and shipping method, complete the email by addi
 2. **LTL Shipping**
    Click **Add Attachment** under the *Select Attachments* section, then upload the [Bill of Lading (BOL)](../ltl/ltl.md) from your device.
 
-   > [!NOTE]
-   > The printer in the office can scan BOL documents directly to your desktop, from where the picture can be attached.
+> [!NOTE]
+> The printer in the office can scan BOL documents directly to your desktop, from where the picture can be attached.
 
-   > [!IMPORTANT]
-   > Ensure the BOL attached here is the copy with the tracking label affixed by the pickup driver.
+> [!IMPORTANT]
+> Ensure the BOL attached here is the copy with the tracking label affixed by the pickup driver. See [LTL Shipment - Step 10: Handle Driver Pickup and PRO Label](../ltl/ltl.md#step-10-handle-driver-pickup-and-pro-label)
    
-   ![alt text](image-12.png)
+![alt text](image-12.png)
 
 3. **Credit Note (Return)**
    Use the same attachment process as LTL shipping, but attach the return label instead of a BOL.

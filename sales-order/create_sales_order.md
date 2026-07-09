@@ -1,8 +1,10 @@
 # Create Sales Order
 
-### Step 0: Generate from Quotation (Optional)
+### Step 0: Generate from Quotation (When Available)
 
-Generate the sales order via an approved [Quotation](../quotation/create_quotation.md). Review the details, modify if needed, and proceed.
+Generate the sales order via an approved [Quotation](../quotation/create_quotation.md). Click on the **Create** button in the top right corner and select **Sales Order** from the dropdown menu. Review the details, modify if needed, and proceed.
+
+![alt text](image-3.png)
 
 ---
 
