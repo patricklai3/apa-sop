@@ -12,13 +12,14 @@ Use this workflow when a user tasks you to "inspect pictures and generate SOP st
 
 ## Formatting Standards
 All SOPs must adhere to the following standard format:
-1. **Introduction**: Start with a direct introductory sentence explaining the procedure. Avoid using explicit "Objective:" or "Prerequisites:" block labels.
-2. **Main Sections**: Group related steps under standard heading levels (e.g., `## Create Shipment`).
-3. **Step Headings**: Format step titles as `### Step X: Step Name`.
-4. **Dividers**: Use horizontal rules (`---`) only to separate major sections and distinct peer-level concepts/scenarios. Do not use dividers between sequential steps.
-5. **Scenarios**: Explicitly label variations as 'Scenario X: [Name]' (e.g., `### Scenario 1: With payment link`) to clarify peer-level distinct paths.
-6. **Visual Aids**: Embed the original images directly below the text instructions for the relevant step.
-7. **Callouts**: Convert user notes into GitHub-style alerts (`> [!NOTE]`, `> [!IMPORTANT]`, `> [!CAUTION]`, `> [!TIP]`).
+1. **Title**: The SOP must begin with a single top-level heading (`#`) representing the title of the document.
+2. **Introduction**: Start with a direct introductory sentence explaining the procedure. Avoid using explicit "Objective:" or "Prerequisites:" block labels.
+3. **Main Sections**: Group related steps under standard heading levels (e.g., `## Create Shipment`).
+4. **Step Headings**: Format step titles as `### Step X: Step Name`.
+5. **Dividers**: Use horizontal rules (`---`) only to separate major sections and distinct peer-level concepts/scenarios. Do not use dividers between sequential steps.
+6. **Scenarios**: Explicitly label variations as 'Scenario X: [Name]' (e.g., `### Scenario 1: With payment link`) to clarify peer-level distinct paths.
+7. **Visual Aids**: Embed the original images directly below the text instructions for the relevant step.
+8. **Callouts**: Convert user notes into GitHub-style alerts (`> [!NOTE]`, `> [!IMPORTANT]`, `> [!CAUTION]`, `> [!TIP]`).
 
 ## Workflow Steps
 
