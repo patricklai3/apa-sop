@@ -21,9 +21,13 @@ Select the **Customer**, set the **Estimated Delivery Date**, and input the cust
 > In addition to customer names, you can use their phone number and address zip code to find their profile.
 
 > [!NOTE]
-> Review how to [add a customer](./add-customer/add-customer.md) if the customer is completely new.
+> Review how to [add a customer](../add-customer/add-customer.md) if the customer is completely new.
 
 ![alt text](image.png)
+
+### Step 2.5: For Shipping Address Different from Billing Address
+
+You must [add a shipping address](../add-customer/add-customer.md#add-alternate-shipping-address) and associate it with the customer.
 
 ### Step 3: Complete the Sales Order
 
