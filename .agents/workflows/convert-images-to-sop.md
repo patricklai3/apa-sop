@@ -32,12 +32,12 @@ All SOPs must adhere to the following standard format:
 ### 2. Drafting the Steps
 - Translate the visual UI actions and provided notes into clear, step-by-step text instructions adhering to the **Formatting Standards** defined above.
 - Use standard markdown formatting (e.g., bold text for UI buttons, fields, and dropdown options).
-- **Cross-Referencing**: Check if any of the described actions are already documented elsewhere in the workspace. If they are, create a relative markdown link to that existing SOP instead of repeating the instructions. Always try to incorporate links into an action item or a specific term (e.g., `Create an [LTL shipping](../ltl/ltl.md) label.`) instead of saying "follow certain instructions" or "refer to something".
+- **Cross-Referencing**: Actively explore the repository to identify if any described actions or concepts are already documented elsewhere. If they are, create a relative markdown link to that existing SOP instead of repeating the instructions. Always try to incorporate links into an action item or a specific term (e.g., `Create an [LTL shipping](../ltl/ltl.md) label.`) instead of saying "follow certain instructions" or "refer to something".
 
 ### 3. Creating the Implementation Plan (Mandatory)
 - **Do not immediately modify the source document.**
 - Create an `implementation_plan.md` artifact detailing the proposed textual steps formatted correctly.
-- Include a specific "Open Questions" section in the plan. Explicitly ask the user to review the plan and provide any necessary **notes, cautions, tips, or domain knowledge** that isn't visible in the images.
+- Include a specific "Open Questions" section in the plan. Explicitly ask the user to review the plan and provide any necessary **notes, cautions, tips, or domain knowledge** that isn't visible in the images. Additionally, prompt the user to suggest links to other documents for concepts that may already be available. This helps ensure SOPs are not cluttered and do not have duplicate steps.
 - Wait for user approval and feedback before proceeding.
 
 ### 4. Execution and Refinement
